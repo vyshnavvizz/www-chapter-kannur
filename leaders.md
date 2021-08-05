@@ -1,4 +1,4 @@
 ### Leaders
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
+* [Vyshnav Nadukkandy](mailto:vyshnav.nadukkandy@owasp.org)
+* [Amal Mohandas](mailto:amal.mohandas@owasp.org)
+* [Prasanth Kunnaruvath](mailto:prasanth.kymmaruvath@owasp.org)
