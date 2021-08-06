@@ -28,7 +28,7 @@ This is an example of a Project or Chapter Page.  Please change these items to i
 
 ## Welcome
 
-Namasakkram!  Welcome to the official OWASP Kannur Chapter! We are a chapter devoted to building a community that fosters collaboration and sharing knowledge on application security and cybersecurity.
+Namaskkaram!  Welcome to the official OWASP Kannur Chapter! We are a chapter devoted to building a community that fosters collaboration and sharing knowledge on application security and cybersecurity.
 
 We hope you can join and participate in our meetups and events, and get plugged into OWASP Kannur  Meetup Group.
 
