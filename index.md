@@ -4,7 +4,7 @@ layout: col-sidebar
 title: OWASP Kannur
 tags: example-tag
 region: Asia
-meetup-group:
+meetup-group: owasp-kannur
 
 ---
 
