@@ -62,4 +62,4 @@ Everyone is welcome and encouraged to participate in our [Projects](/projects), 
 ---------------------
 {% include chapter_events.html group=page.meetup-group %}
 
-```
+-->
