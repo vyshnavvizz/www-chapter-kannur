@@ -1,36 +1,11 @@
----
-
-layout: col-sidebar
-title: OWASP Kannur
-tags: example-tag
-region: Asia
-meetup-group: owasp-kannur
-
----
-
-<div style='color:red;'>
-
-This is an example of a Project or Chapter Page.  Please change these items to indicate the actual information you wish to present.  In addition to this information, the 'front-matter' above this text should be modified to reflect your actual information.  An explanation of each of the front-matter items is below:
-
-<ul>
-<li>layout: This is the layout used by project and chapter pages.  You should leave this value as col-sidebar</li>
-
-<li>title: This is the title of your project or chapter page, usually the name.  For example, OWASP Zed Attack Proxy or OWASP Baltimore</li>
-
-<li>tags: This is a space-delimited list of tags you associate with your project or chapter.  If you are using tabs, at least one of these tags should be unique in order to be used in the tabs files (an example tab is included in this repo) </li>
-
-<li>region: This is the region you are in according to our data</li>
-
-<li>meetup-group: This is the name of your meetup group, usually in the form of OWASP-chapter.  By putting these details here, the section below labeled 'Next Meeting/Event' will get automatically populated with your upcoming meetup events.</li>
-</ul>
-
-</div>
 
 ## Welcome
 
-Namaskkaram!  Welcome to the official OWASP Kannur Chapter! We are a chapter devoted to building a community that fosters collaboration and sharing knowledge on application security and cybersecurity.
+### Namaskkaram
+ 
+Welcome to the official OWASP Kannur Chapter! We are a chapter devoted to building a community that fosters collaboration and sharing knowledge on application security and cybersecurity.
 
-We hope you can join and participate in our meetups and events, and get plugged into OWASP Kannur  Meetup Group.
+We hope you can join and participate in our meetups https://www.meetup.com/owasp-kannur/ and events, and get plugged into OWASP Kannur  Meetup Group.
 
 We would be delighted to see you soon!
 
@@ -44,6 +19,16 @@ Everyone is welcome and encouraged to participate in our [Projects](/projects/),
 Next Meeting/Event <!-- You should keep this section as it will populate your meetup events -->
 ---------------------
 {% include chapter_events.html group=page.meetup-group %}
+
+## Sponsorship
+
+Financial contributions should only be made online using the authorized online donation button at the top of this page. For non-financial sponsorship, please reach out to any of the listed Abu Dhabi chapter leaders.
+
+## Partnerships
+
+We’re especially interested in partnering with local educational institutions to encourage the participation of students in the chapter and to showcase the possibilities of careers in application security.
+
+If you represent one of these institutions, please do not hesitate to contact the listed leadership team to see how we can form a mutually beneficial partnership.
 
 <!-- You should delete this comment
 
