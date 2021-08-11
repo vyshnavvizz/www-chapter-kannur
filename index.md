@@ -5,7 +5,7 @@
  
 Welcome to the official OWASP Kannur Chapter! We are a chapter devoted to building a community that fosters collaboration and sharing knowledge on application security and cybersecurity.
 
-We hope you can join and participate in our [meetups](https://www.meetup.com/owasp-kannur/) and events, and get plugged into OWASP Kannur  Meetup Group.
+We hope you can join and participate in our [meetups](https://www.meetup.com/owasp-kannur/){:target='_blank'} and events, and get plugged into OWASP Kannur  Meetup Group.
 
 We would be delighted to see you soon!
 
@@ -62,4 +62,4 @@ Everyone is welcome and encouraged to participate in our [Projects](/projects), 
 ---------------------
 {% include chapter_events.html group=page.meetup-group %}
 
--->
+
