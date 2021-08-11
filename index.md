@@ -22,7 +22,7 @@ Next Meeting/Event <!-- You should keep this section as it will populate your me
 
 ## Sponsorship
 
-Financial contributions should only be made online using the authorized online donation button at the top of this page. For non-financial sponsorship, please reach out to any of the listed Abu Dhabi chapter leaders.
+Financial contributions should only be made online using the authorized online donation button at the top of this page. For non-financial sponsorship, please reach out to any of the listed Kannur chapter leaders.
 
 ## Partnerships
 
