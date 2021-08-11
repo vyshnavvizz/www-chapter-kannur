@@ -63,6 +63,7 @@ Everyone is welcome and encouraged to participate in our [Projects](/projects), 
 {% include chapter_events.html group=page.meetup-group %}
 
 ```
+<!-- 
 {info.md}
 
 This separate file is where you should place links to your Google Group and Meetup page. It will be automatically rendered in the column sidebar.
