@@ -1,3 +1,12 @@
+---
+
+layout: col-sidebar
+title: OWASP Kannur
+tags: owasp-kannur-tag
+region: Asia
+meetup-group: owasp-kannur
+
+---
 
 ## Welcome
 
