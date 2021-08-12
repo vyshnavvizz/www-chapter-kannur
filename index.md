@@ -1,4 +1,4 @@
-<!--
+
 ---
 
 layout: col-sidebar
@@ -8,7 +8,6 @@ region: Asia
 meetup-group: owasp-kannur
 
 ---
--->
 
 ## Welcome
 
