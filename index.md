@@ -6,6 +6,7 @@ tags: owasp-kannur-tag
 region: Asia
 meetup-group: owasp-kannur
 country: India
+postal-code: 670001
 
 ---
 
