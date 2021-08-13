@@ -2,7 +2,7 @@
 
 layout: col-sidebar
 title: OWASP Kannur
-tags: owasp-kannur-tag
+tags: kannur
 region: Asia
 meetup-group: owasp-kannur
 country: India
