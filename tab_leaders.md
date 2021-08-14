@@ -6,7 +6,7 @@ order: 3
 tags: kannur
 ---
 
-## Leader
+## Leaders
 ### Present Chapter Leaders
 
 * [Vyshnav NK](mailto:vyshnav.nadukkandy@owasp.org)
