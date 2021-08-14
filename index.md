@@ -12,6 +12,8 @@ postal-code: 670001
 
 ## Welcome
 
+<img src="assets/images/logo.png">
+
 ### നമസ്കാരം
  
 Welcome to the official OWASP Kannur Chapter! We are a chapter devoted to building a community that fosters collaboration and sharing knowledge on application security and cybersecurity.
@@ -42,6 +44,9 @@ Next Meeting/Event <!-- You should keep this section as it will populate your me
 ---------------------
 {% include chapter_events.html group=page.meetup-group %}
 
+**OWASP Kannur proudly celebrating OWASP’s 20th Anniversary!**
+
+<img src="assets/images/OWASP_20th_Anniversary.jpeg">
 
 
 <!-- You should delete this comment
