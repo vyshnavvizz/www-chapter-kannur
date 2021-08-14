@@ -12,7 +12,7 @@ postal-code: 670001
 
 ## Welcome
 
-<img src="assets/images/logo.png">
+<img src="assets/images/owasp-kannur.png">
 
 ### നമസ്കാരം
  
