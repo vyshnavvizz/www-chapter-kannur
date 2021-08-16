@@ -3,6 +3,8 @@
 
 layout: col-sidebar
 title: Events
+tab: true
+order: 3
 tags: kannur
 region: Asia
 meetup-group: owasp-kannur
