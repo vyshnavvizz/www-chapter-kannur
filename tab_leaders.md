@@ -17,6 +17,9 @@ tags: kannur
 
 * [Prasanth K](mailto:prasanth.kunnaruvath@owasp.org)
 
+* [Arjun R](mailto:arjun.rajendrakumar@owasp.org)
+
+* [Sooraj V](mailto:sooraj.velluahouse@owasp.org)
 
 
 
