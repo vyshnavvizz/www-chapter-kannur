@@ -12,6 +12,9 @@ postal-code: 670001
 
 ---
 
+[<img src="assets/images/meetup.png" style="width: 40%;" alt="OWASP Kannur on Meetup.com" />](https://www.meetup.com/owasp-kannur/)
+<br style="clear: left;"/>
+
 ## Upcoming Events
 
 {% include chapter_events.html group=page.meetup-group %}
