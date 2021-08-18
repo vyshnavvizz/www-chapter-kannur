@@ -8,7 +8,7 @@ tags: kannur
 
 ## Speakers
 
-Would you like to speak on the upcoming OWASP Kannur meetup? [Contact Us](mailto:vyshnav.nadukkandy@owasp.org)
+Would you like to speak on the upcoming OWASP Kannur meetup? [Contact Us](mailto:kannur-leaders@owasp.org)
 
 **Email Format :**
 
