@@ -7,7 +7,7 @@ tags: kannur
 ---
 
 ## Speakers
-# Call for Papers (CFP) is NOW OPEN
+# Call for Papers (CFP) is OPEN NOW!!
 
 Would you like to speak on the upcoming OWASP Kannur meetup? [Contact Us](mailto:kannur-leaders@owasp.org)
 
