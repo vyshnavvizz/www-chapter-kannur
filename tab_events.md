@@ -19,4 +19,4 @@ postal-code: 670001
 
 {% include chapter_events.html group=page.meetup-group %}
 
-## Events Archives
+<!-- ## Events Archives -->
