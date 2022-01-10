@@ -12,7 +12,7 @@ postal-code: 670001
 
 ## Welcome
 
-<img src="assets/images/logo.png" width="400" height="400">
+<img src="assets/images/logo.png" width="926" height="1164">
 
 ### നമസ്കാരം
  
