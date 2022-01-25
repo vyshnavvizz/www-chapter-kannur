@@ -45,4 +45,4 @@ Next Meeting/Event <!-- You should keep this section as it will populate your me
 
 **OWASP Kannur proudly celebrating OWASP’s 20th Anniversary!**
 
-<img src="assets/images/OWASP_20th_Anniversary.jpg" 100x100 >
+<img src="assets/images/OWASP_20th_Anniversary.jpg">
