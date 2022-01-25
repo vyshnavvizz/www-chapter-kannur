@@ -1,6 +1,6 @@
 ---
 title: Blogs
-displaytext: Blogs/Posts
+displaytext: Blogs
 layout: col-sidebar
 tab: true
 order: 5
