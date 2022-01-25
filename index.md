@@ -43,6 +43,6 @@ Next Meeting/Event <!-- You should keep this section as it will populate your me
 ---------------------
 {% include chapter_events.html group=page.meetup-group %}
 
-<p align="center"> **OWASP Kannur proudly celebrating OWASP’s 20th Anniversary!**</p>
+**OWASP Kannur proudly celebrating OWASP’s 20th Anniversary!**
 
 <p align="center"> <img src="assets/images/OWASP_20th_Anniversary.jpg" width="400" height="350"></p>
