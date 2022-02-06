@@ -4,6 +4,6 @@
 * Kerala, India
 
 ### Social Links
-* [Meetup](https://www.meetup.com/owasp-kannur/)
-* [LinkedIn](https://www.linkedin.com/company/owasp-kannur)
+* [Meetup](https://www.meetup.com/owasp-kannur/){:target="_blank" rel="noopener"}
+* [LinkedIn](https://www.linkedin.com/company/owasp-kannur){:target="_blank" rel="noopener"}
 
