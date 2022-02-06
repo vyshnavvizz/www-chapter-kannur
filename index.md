@@ -13,10 +13,14 @@ postal-code: 670001
 ## നമസ്കാരം
 ഔദ്യോഗിക OWASP കണ്ണൂർ ചാപ്റ്ററിലേക്ക് സ്വാഗതം! ആപ്ലിക്കേഷൻ സുരക്ഷയിലും സൈബർ സുരക്ഷയിലും അറിവും സഹകരണവും പങ്കുവെക്കുന്ന ഒരു കമ്മ്യൂണിറ്റി കെട്ടിപ്പടുക്കുന്നതിനായി സമർപ്പിച്ചിരിക്കുന്ന ഒരു ചാപ്റ്റർ OWASP കണ്ണൂർ.
 
+നിങ്ങൾക്ക് ഞങ്ങളുടെ [മീറ്റപ്പുകളിലും](https://www.meetup.com/owasp-kannur/)  [ഇവന്റുകളിലും](https://owasp.org/www-chapter-kannur/#div-events) ചേരാനും പങ്കെടുക്കാനും OWASP കണ്ണൂർ മീറ്റപ്പ് ഗ്രൂപ്പിൽ ചേരാനും കഴിയുമെന്ന് ഞങ്ങൾ പ്രതീക്ഷിക്കുന്നു. ഞങ്ങളുടെ വരാനിരിക്കുന്ന ഇവന്റുകളെക്കുറിച്ച് സംസാരിക്കാൻ നിങ്ങൾ ആഗ്രഹിക്കുന്നുവെങ്കിൽ സ്പീക്കർ വിഭാഗത്തിലേക്ക് പോകുക.
+
+ഞങ്ങൾ എല്ലാവരേയും സ്വാഗതം ചെയ്യുന്നു, നിങ്ങളെ കാണാൻ പോകുന്നതിൽ സന്തോഷമുണ്ട്! 
+
 ## Welcome
 Welcome to the official OWASP Kannur Chapter! We are a chapter devoted to building a community that fosters collaboration and sharing knowledge on application security and cybersecurity.
 
-We hope you can join and participate in our [meetups](https://www.meetup.com/owasp-kannur/) and [events](), and get plugged into OWASP Kannur  Meetup Group. If you would like to speak on our upcoming events go to [speakers]() section.
+We hope you can join and participate in our [meetups](https://www.meetup.com/owasp-kannur/) and [events](https://owasp.org/www-chapter-kannur/#div-events), and get plugged into OWASP Kannur  Meetup Group. If you would like to speak on our upcoming events go to [speakers]() section.
 
 We would be delighted to see you soon!
 
