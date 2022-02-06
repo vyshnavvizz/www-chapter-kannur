@@ -1,5 +1,5 @@
 ---
-title: Home (EN)
+title: Home
 displaytext: Home
 layout: col-sidebar
 tab: true
