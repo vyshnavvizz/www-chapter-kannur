@@ -3,7 +3,7 @@ title: Home (EN)
 displaytext: Home
 layout: col-sidebar
 tab: true
-order: 2
+order: 6
 tags: kannur
 ---
 ## Welcome
