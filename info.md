@@ -1,7 +1,6 @@
 ### Information
 
-![OWASP Kannur Chapter](assets/images/logo.png
-"OWASP Kannur Chapter")
+![OWASP Kannur Chapter](assets/images/logo.png "OWASP Kannur Chapter")
 * Kerala, India
 
 ### Social Links
