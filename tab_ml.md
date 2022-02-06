@@ -22,20 +22,20 @@ OWASP കണ്ണൂർ ഔദ്യോഗിക ചാപ്റ്ററില
 
 ഞങ്ങളുടെ [പ്രോജക്ടുകൾ](https://owasp.org/projects/){:target="_blank" rel="noopener"}, [പ്രാദേശിക ചാപ്റ്ററുകൾ](https://owasp.org/chapters/){:target="_blank" rel="noopener"}, [ഇവന്റുകൾ](https://owasp.org/events/){:target="_blank" rel="noopener"}, [ഓൺലൈൻ ഗ്രൂപ്പുകൾ](https://groups.google.com/a/owasp.com/){:target='_blank'}, [കമ്മ്യൂണിറ്റി സ്ലാക്ക് ചാനൽ](https://owasp.slack.com/){:target='_blank'} എന്നിവയിൽ പങ്കെടുക്കാൻ ഏവരെയും സ്വാഗതം ചെയ്യുകയും പ്രോത്സാഹിപ്പിക്കുകയും ചെയ്യുന്നു. ഞങ്ങളുടെ എല്ലാ സംരംഭങ്ങളിലും ഞങ്ങൾ പ്രത്യേകിച്ച് വൈവിധ്യത്തെ പ്രോത്സാഹിപ്പിക്കുന്നു. OWASP എന്നത് ആപ്ലിക്കേഷൻ സുരക്ഷയെക്കുറിച്ചും നെറ്റ്‌വർക്കിനെക്കുറിച്ചും ഒരു വിദഗ്ദ്ധനെന്ന നിലയിൽ നിങ്ങളുടെ പ്രശസ്തി ഉണ്ടാക്കുന്നതിനെക്കുറിച്ചും പഠിക്കാനുള്ള ഒരു മികച്ച സ്ഥലമാണ്. ഞങ്ങളുടെ നിലവിലുള്ള പ്രവർത്തനത്തെ പിന്തുണയ്ക്കുന്നതിനായി ഒരു [അംഗമാകാനോ](https://owasp.org/membership/){:target="_blank" rel="noopener"} [സംഭാവന](https://owasp.org/donate/){:target="_blank" rel="noopener"} പരിഗണിക്കാനോ ഞങ്ങൾ നിങ്ങളെ പ്രോത്സാഹിപ്പിക്കുന്നു.
 
-## Sponsorship
+## സ്പോൺസർഷിപ്പ്
 
-Financial contributions should only be made online using the authorized online donation button at the top of this page. For non-financial sponsorship, please reach out to any of the listed Kannur chapter leaders.
+ഈ പേജിന്റെ മുകളിലുള്ള അംഗീകൃത ഓൺലൈൻ സംഭാവന ബട്ടൺ ഉപയോഗിച്ച് മാത്രമേ സാമ്പത്തിക സംഭാവനകൾ ഓൺലൈനായി നൽകാവൂ. നോൺ-ഫിനാൻഷ്യൽ സ്പോൺസർഷിപ്പിനായി, ലിസ്റ്റുചെയ്തിരിക്കുന്ന കണ്ണൂർ ചാപ്റ്റർ ലീഡറുകളിൽ ആരെയെങ്കിലും ബന്ധപ്പെടുക. 
 
-## Partnerships
+## പങ്കാളിത്തങ്ങൾ
 
-We’re especially interested in partnering with local educational institutions to encourage the participation of students in the chapter and to showcase the possibilities of careers in application security.
+അധ്യായത്തിലെ വിദ്യാർത്ഥികളുടെ പങ്കാളിത്തം പ്രോത്സാഹിപ്പിക്കുന്നതിനും ആപ്ലിക്കേഷൻ സുരക്ഷയിൽ കരിയറിന്റെ സാധ്യതകൾ പ്രദർശിപ്പിക്കുന്നതിനും പ്രാദേശിക വിദ്യാഭ്യാസ സ്ഥാപനങ്ങളുമായി പങ്കാളിത്തത്തിൽ ഏർപ്പെടാൻ ഞങ്ങൾക്ക് പ്രത്യേക താൽപ്പര്യമുണ്ട്.
 
-If you represent one of these institutions, please do not hesitate to contact the listed leadership team to see how we can form a mutually beneficial partnership.
+നിങ്ങൾ ഈ സ്ഥാപനങ്ങളിലൊന്നിനെ പ്രതിനിധീകരിക്കുന്നുവെങ്കിൽ, പരസ്പരം പ്രയോജനപ്രദമായ ഒരു പങ്കാളിത്തം എങ്ങനെ രൂപപ്പെടുത്താമെന്ന് കാണാൻ ലിസ്‌റ്റ് ചെയ്‌ത നേതൃത്വ ടീമിനെ ബന്ധപ്പെടാൻ മടിക്കരുത്. 
 
-Next Meeting/Event <!-- You should keep this section as it will populate your meetup events -->
+അടുത്ത മീറ്റിംഗ്/ഇവന്റ്  <!-- You should keep this section as it will populate your meetup events -->
 ---------------------
 {% include chapter_events.html group=page.meetup-group %}
 
-**OWASP Kannur proudly celebrating OWASP’s 20th Anniversary!**
+**OWASPന്റെ 20-ാം വാർഷികം അഭിമാനത്തോടെ ആഘോഷിക്കുന്നു OWASP കണ്ണൂർ !**
 
 <p align="center"> <img src="assets/images/OWASP_20th_Anniversary.jpg" width="400" height="350"></p>
