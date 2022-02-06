@@ -36,6 +36,6 @@ OWASP കണ്ണൂർ ഔദ്യോഗിക ചാപ്റ്ററില
 ---------------------
 {% include chapter_events.html group=page.meetup-group %}
 
-**OWASPന്റെ 20-ാം വാർഷികം അഭിമാനത്തോടെ ആഘോഷിക്കുന്നു OWASP കണ്ണൂർ !**
+**OWASPന്റെ 20-ാം വാർഷികം ഞങ്ങൾ അഭിമാനത്തോടെ ആഘോഷിക്കുന്നു!**
 
 <p align="center"> <img src="assets/images/OWASP_20th_Anniversary.jpg" width="400" height="350"></p>
