@@ -1,13 +1,10 @@
 ---
-
+title: Home (EN)
+displaytext: Home
 layout: col-sidebar
-title: OWASP Kannur
+tab: true
+order: 2
 tags: kannur
-region: Asia
-meetup-group: owasp-kannur
-country: India
-postal-code: 670001
-
 ---
 ## Welcome
 Welcome to the official OWASP Kannur Chapter! We are a chapter devoted to building a community that fosters collaboration and sharing knowledge on application security and cybersecurity.
