@@ -11,4 +11,4 @@ tags: kannur
 
 ## Videos
 
-[TALK with Experts - Story of Abhi M Balakrishnan]( /videos/abhi-m-balakrishnan.md){:target="_blank" rel="noopener"}
+[TALK with Experts - Story of Abhi M Balakrishnan](https://owasp.org/www-chapter-kannur/videos/abhi-m-balakrishnan.md){:target="_blank" rel="noopener"}
