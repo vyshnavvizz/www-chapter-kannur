@@ -1,8 +1,8 @@
 ---
-title: ML 
+title: Home
 layout: col-sidebar
 tab: true
-order: 6
+order: 2
 tags: kannur
 ---
 
