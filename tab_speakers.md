@@ -24,7 +24,6 @@ Submit this form [Call for Papers (CFP)](https://forms.gle/4ZfP9QcaGmB5vCCE6){:t
 - Presentation Details
     - Name / Title of the Presentation
     - Abstract of the presentation
-    - Presentation time required
+    - Time required for presentation 
 
-## Or submit this form
-[Call for Papers (CFP)](https://forms.gle/4ZfP9QcaGmB5vCCE6){:target="_blank" rel="noopener"}
+
