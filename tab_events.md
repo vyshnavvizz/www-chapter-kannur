@@ -11,10 +11,9 @@ country: India
 postal-code: 670001
 
 ---
-### Click below to join out meetup!!
+### Click [<img src="assets/images/meetup-s.png" style="width: 8%;" alt="OWASP Kannur on Meetup.com" />](https://www.meetup.com/owasp-kannur/){:target="_blank" rel="noopener"} <br style="clear: left;"/> to join out meetup!!
 
-[<img src="assets/images/meetup.png" style="width: 40%;" alt="OWASP Kannur on Meetup.com" />](https://www.meetup.com/owasp-kannur/){:target="_blank" rel="noopener"}
-<br style="clear: left;"/>
+
 
 ## Upcoming Events
 
