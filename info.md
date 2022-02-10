@@ -1,4 +1,4 @@
-[Home](https://owasp.org/www-chapter-kannur/#div-ml) [Speaker](https://owasp.org/www-chapter-kannur/#div-speakers) [Event](https://owasp.org/www-chapter-kannur/#div-events) [Blog](https://owasp.org/www-chapter-kannur/#div-blogs)
+[Home](https://owasp.org/www-chapter-kannur/#div-ml) | [Speaker](https://owasp.org/www-chapter-kannur/#div-speakers) | [Event](https://owasp.org/www-chapter-kannur/#div-events) | [Blog](https://owasp.org/www-chapter-kannur/#div-blogs)
 ### Information
 
 ![OWASP Kannur Chapter](assets/images/logo.png "OWASP Kannur Chapter")
