@@ -15,8 +15,13 @@ tags: kannur
 [![Watch Story of Abhi M Balakrishnan](https://raw.githubusercontent.com/OWASP/www-chapter-kannur/main/thumbnails/1.png)](https://www.youtube.com/watch?v=5Phtdiu4Vmw){:target="_blank" rel="noopener"}
 
 ---
+
 ---
 
 ### TALK with Experts | Episode 2
 #### Story of Vipin Pavithran (Team bi0s) 
 [![Watch Story of Vipin Pavithran](https://raw.githubusercontent.com/OWASP/www-chapter-kannur/main/thumbnails/2.png)](https://youtu.be/J8rSlndunZU){:target="_blank" rel="noopener"}
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=J8rSlndunZU
+" target="_blank"><img src="http://img.youtube.com/vi/J8rSlndunZU/0.jpg" 
+alt="Story of Vipin Pavithran (Team bi0s)"  /></a>
