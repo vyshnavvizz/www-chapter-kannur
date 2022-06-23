@@ -29,4 +29,4 @@ order: 1
 
    f. Women in AppSec Track - Sajana
 
-4. Next meeting is scheduled on 03-Nov-2021 at 5 PM.
+4. Next meeting is scheduled on 14-Nov-2021 at 5 PM.
