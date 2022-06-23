@@ -5,7 +5,6 @@ title: OWASP Kannur Chapter Board Planning Meeting
 displaytext: Events Archives
 tab: true
 order: 10
-tags: kannur
 region: Asia
 meetup-group: owasp-kannur
 country: India
