@@ -19,4 +19,8 @@ postal-code: 670001
 
 {% include chapter_events.html group=page.meetup-group %}
 
-<!-- ## Events Archives -->
+## Events Archives 
+
+**10th October 2021**
+
+[OWASP Kannur Chapter Board Planning Meeting](events/10oct2021)
