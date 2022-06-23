@@ -3,12 +3,7 @@
 layout: col-sidebar
 title: OWASP Kannur Chapter Board Planning Meeting
 displaytext: Events Archives
-tab: true
-order: 10
-region: Asia
-meetup-group: owasp-kannur
-country: India
-postal-code: 670001
+order: 1
 
 ---
 
