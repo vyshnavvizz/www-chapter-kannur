@@ -7,7 +7,7 @@ order: 1
 
 ---
 
-[Back to Home](../index.html)
+[Back to Home](../index)
 
 ### Kannur Chapter Board Planning Meeting Nov 2021
 
