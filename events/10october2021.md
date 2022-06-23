@@ -4,9 +4,10 @@ layout: col-sidebar
 title: OWASP Kannur Chapter Board Planning Meeting
 displaytext: Events Archives
 order: 1
-tab: true
 
 ---
+
+[Home](../index.html)
 
 ### Kannur Chapter Board Planning Meeting Oct 2021
 
