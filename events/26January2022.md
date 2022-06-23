@@ -7,7 +7,7 @@ order: 1
 
 ---
 
-[Back to Home](../index.html)
+[Back to Home](../index)
 
 ### OWASP KANNUR CHAPTER MEETUP - Talk With Experts - Malayalam
 
