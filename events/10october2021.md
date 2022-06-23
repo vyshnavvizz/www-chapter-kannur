@@ -4,6 +4,7 @@ layout: col-sidebar
 title: OWASP Kannur Chapter Board Planning Meeting
 displaytext: Events Archives
 order: 1
+tab: true
 
 ---
 
