@@ -11,7 +11,7 @@ order: 1
 
 ### Kannur Chapter Board Planning Meeting Oct 2021
 
-1. Start acivities on social media platforms
+1. Start acivities on our social media platforms
 
 2. Recruiting new Volenteers for CTF, Training and Events
 
