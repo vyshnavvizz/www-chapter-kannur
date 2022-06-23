@@ -15,4 +15,16 @@ order: 1
 
 2. Recruiting new Volenteers for CTF, Training and Events
 
+   a. JP Goutham
+
+   b. Midhun Mohanan
+
+   c. Ambadi MP
+
+   d. Benhur Paul
+   
+   e. SHERIN SAJI
+  
+   f. Arnold Prakash
+
 3. Decided to organise OWASP Meetup on 27-Mar-2022
