@@ -17,10 +17,12 @@ postal-code: 670001
 
 ## Upcoming Events
 
+
 {% include chapter_events.html group=page.meetup-group %}
 
 
 ## Events Archives 
+
 
 ### 10th October 2021
 
