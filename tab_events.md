@@ -24,4 +24,4 @@ postal-code: 670001
 
 **10th October 2021**
 
-[OWASP Kannur Chapter Board Planning Meeting](events/10oct2021)
+[OWASP Kannur Chapter Board Planning Meeting](events/10october2021)
