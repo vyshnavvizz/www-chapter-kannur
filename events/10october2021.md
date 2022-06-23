@@ -7,7 +7,7 @@ order: 1
 
 ---
 
-** Kannur Chapter Board Planning Meeting Oct 2021 **
+### Kannur Chapter Board Planning Meeting Oct 2021
 
 1. Board Members has been selected and assigned individual roles in the board.
 
