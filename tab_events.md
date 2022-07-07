@@ -24,20 +24,6 @@ postal-code: 670001
 ## Events Archive
 
 
-### 10th October 2021
-
-[OWASP Kannur Chapter Board Planning Meeting](events/10october2021)
-
-### 14th November 2021
-
-[OWASP Kannur Chapter Board Planning Meeting](events/14november2021)
-
-
-### 13th February 2022
-
-[OWASP Kannur Chapter Board Planning Meeting](events/13February2022)
-
-
 ### 02nd July 2022
 
 [Meetup - Talk With Expert - Abhi M Balakrishnan](events/2july2022) 
@@ -46,4 +32,19 @@ postal-code: 670001
 ### 03rd July 2022
 
 [Meetup - Talk With Expert - Vipin Pavithran (Team bi0s)](events/3july2022)
+
+
+### 13th February 2022
+
+[OWASP Kannur Chapter Board Planning Meeting](events/13February2022)
+
+
+### 14th November 2021
+
+[OWASP Kannur Chapter Board Planning Meeting](events/14november2021)
+
+
+### 10th October 2021
+
+[OWASP Kannur Chapter Board Planning Meeting](events/10october2021)
 
