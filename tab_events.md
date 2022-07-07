@@ -23,16 +23,15 @@ postal-code: 670001
 
 ## Events Archive
 
+### 03rd July 2022
+
+[Meetup - Talk With Expert - Vipin Pavithran (Team bi0s)](events/3july2022)
+
 
 ### 02nd July 2022
 
 [Meetup - Talk With Expert - Abhi M Balakrishnan](events/2july2022) 
  
-
-### 03rd July 2022
-
-[Meetup - Talk With Expert - Vipin Pavithran (Team bi0s)](events/3july2022)
-
 
 ### 13th February 2022
 
