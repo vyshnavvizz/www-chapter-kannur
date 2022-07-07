@@ -38,12 +38,12 @@ postal-code: 670001
 [OWASP Kannur Chapter Board Planning Meeting](events/13February2022)
 
 
-### 26th January 2022
+### 02nd July 2022
 
 [Meetup - Talk With Expert - Abhi M Balakrishnan](events/2july2022) 
  
 
-### 27th March 2022
+### 03rd July 2022
 
 [Meetup - Talk With Expert - Vipin Pavithran (Team bi0s)](events/3july2022)
 
