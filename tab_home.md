@@ -1,7 +1,7 @@
 ---
 title: Home
 layout: col-sidebar
-tab: true
+tab: false
 order: 2
 tags: kannur
 ---
