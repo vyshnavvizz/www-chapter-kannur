@@ -23,6 +23,12 @@ postal-code: 670001
 
 ## Events Archive
 
+
+### 10th July 2022
+
+[OWASP Kannur Chapter Board Meeting]()
+
+
 ### 03rd July 2022
 
 [Meetup - Talk With Expert - Vipin Pavithran (Team bi0s)](events/3july2022)
