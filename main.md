@@ -11,7 +11,7 @@ postal-code: 670001
 ---
 
 ## Welcome 
-<p align="right"><a href="index.md">Ml</p>
+[ML](index.md)
   
 Welcome to the official OWASP Kannur Chapter! We are a chapter devoted to building a community that fosters collaboration and sharing knowledge on application security and cybersecurity.
 
