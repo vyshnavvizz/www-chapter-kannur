@@ -10,7 +10,7 @@ postal-code: 670001
 
 
 ## നമസ്കാരം 
-<p align="right"><a href="main.md">En</p>
+[EN](main.md)
 
 OWASP കണ്ണൂർ ഔദ്യോഗിക ചാപ്റ്ററിലേക്ക് സ്വാഗതം. 
 
