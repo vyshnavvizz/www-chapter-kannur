@@ -1,4 +1,4 @@
-[Home](https://owasp.org/www-chapter-kannur/){:target="_blank" rel="noopener"} | [Speaker](https://owasp.org/www-chapter-kannur/#div-speakers){:target="_blank" rel="noopener"} | [Event](https://owasp.org/www-chapter-kannur/#div-events){:target="_blank" rel="noopener"} | [Blog](https://owasp.org/www-chapter-kannur/#div-blogs){:target="_blank" rel="noopener"}
+[Home](https://owasp.org/www-chapter-kannur/){:target="_blank" rel="noopener"} | [Speaker](https://owasp.org/www-chapter-kannur/#div-speakers){:target="_blank" rel="noopener"} | [Event](https://owasp.org/www-chapter-kannur/#div-events){:target="_blank" rel="noopener"}
 ### Information
 
 ![OWASP Kannur Chapter](assets/images/logo.png "OWASP Kannur Chapter")
