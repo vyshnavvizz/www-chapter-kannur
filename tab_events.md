@@ -23,6 +23,10 @@ postal-code: 670001
 
 ## Events Archive
 
+### 17th July 2022
+
+[Webinar - Social Engineering - Ambadi M](https://www.meetup.com/owasp-kannur/events/287185800/)
+
 
 ### 10th July 2022
 
