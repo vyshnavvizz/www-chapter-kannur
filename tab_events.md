@@ -25,7 +25,7 @@ postal-code: 670001
 
 ### 17th July 2022
 
-[Social Engineering - Ambadi M](events/17july2022)
+[Meetup - Social Engineering - Ambadi M](events/17july2022)
 
 
 ### 10th July 2022
