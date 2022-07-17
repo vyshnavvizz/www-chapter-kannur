@@ -1,9 +1,11 @@
 ---
-title: Home
 layout: col-sidebar
-tab: true
-order: 1
+title: OWASP Kannur
 tags: kannur
+region: Asia
+meetup-group: owasp-kannur
+country: India
+postal-code: 670001
 ---
 
 
