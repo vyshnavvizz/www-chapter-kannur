@@ -10,7 +10,9 @@ postal-code: 670001
 
 ---
 
-## Welcome <p align="right">[Ml](index.md)
+## Welcome 
+<p align="right">[Ml](index.md)</p>
+  
 Welcome to the official OWASP Kannur Chapter! We are a chapter devoted to building a community that fosters collaboration and sharing knowledge on application security and cybersecurity.
 
 We hope you can join and participate in our [meetups](https://www.meetup.com/owasp-kannur/){:target="_blank" rel="noopener"} and [events](https://owasp.org/www-chapter-kannur/#div-events){:target="_blank" rel="noopener"}, and get plugged into OWASP Kannur  Meetup Group. If you would like to speak on our upcoming events go to [speakers](https://owasp.org/www-chapter-kannur/#div-speakers){:target="_blank" rel="noopener"} section.
